@@ -7,7 +7,11 @@
     },
     "extra": {
         "patches": {
-            "silverstripe/framework": "https://gist.githubusercontent.com/wernerkrauss/5803756adf42fa4c270813e87399dee4/raw/7c8d23487d85bab8c2bb4ebdd6cbff96ef0155ac/ss3-php7.patch"
+            "silverstripe/framework": [
+                {
+                    "title": "[PATCH] applying lekoala's php7 fixes for SS 3.2+",
+                    "url": "https://gist.githubusercontent.com/wernerkrauss/5803756adf42fa4c270813e87399dee4/raw/7c8d23487d85bab8c2bb4ebdd6cbff96ef0155ac/ss3-php7.patch"
+                ]
         }
     }
 }
