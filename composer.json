@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "type": "silverstripe-module",
     "require": {
-        "netresearch/composer-patches-plugin": "~1.0"
+        "netresearch/composer-patches-plugin": "^1.2.1"
     },
     "extra": {
         "patches": {
