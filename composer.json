@@ -1,6 +1,5 @@
 {
     "name": "wernerkrauss/silverstripe-3-php7",
-    "version": "1.0.0",
     "type": "silverstripe-module",
     "require": {
         "netresearch/composer-patches-plugin": "^1.2.1"
