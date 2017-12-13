@@ -13,3 +13,6 @@ Simply run
 
 then change your server to run PHP7 and enjoy the speed it provides.
 
+## Note for upgrading to SilverStripe 3.6+
+
+As SilverStripe 3.6 runs on PHP7 out of the box, this patch isn't needed any more. You can safely uninstall it and enjoy the speed of PHP7.0
